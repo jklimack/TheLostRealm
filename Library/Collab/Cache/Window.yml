@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Models.meta
+    - Assets/Models/Paladin.meta
+    - Assets/Models/Zombie.meta
+    - Assets/NPC/Paladin/BrutalAssasination.anim.meta
+    - Assets/NPC/Paladin/Martelo.anim
+    - Assets/NPC/Paladin/PunchCombo.anim.meta
+    - Assets/NPC/Warrok/Dying.anim.meta
+    - Assets/NPC/Warrok/Mutant Punch.anim.meta
+    - Assets/NPC/Warrok/T-Pose.anim.meta
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 0000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 58758070ae85bd6f6d337c55eea0ddc0110c0112
+  HistoryPageNumber: 0
+  TabIndex: 1
